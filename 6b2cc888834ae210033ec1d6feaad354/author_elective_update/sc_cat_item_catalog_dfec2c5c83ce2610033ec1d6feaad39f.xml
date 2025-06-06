@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="PC application">8a7ca05c83ce2610033ec1d6feaad31c</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-06 04:50:20</sys_created_on>
+        <sys_id>dfec2c5c83ce2610033ec1d6feaad39f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.PC application</sys_name>
+        <sys_package display_value="Demo1" source="x_1578353_demo1_0">6b2cc888834ae210033ec1d6feaad354</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo1">6b2cc888834ae210033ec1d6feaad354</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_dfec2c5c83ce2610033ec1d6feaad39f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-06 04:50:20</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo1">6b2cc888834ae210033ec1d6feaad354</application>
+        <file_path/>
+        <instance_id>0ba47fc9eb370a90cbdefceacad0cd42</instance_id>
+        <instance_name>dev285430</instance_name>
+        <name>sc_cat_item_catalog_dfec2c5c83ce2610033ec1d6feaad39f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="PC application">8a7ca05c83ce2610033ec1d6feaad31c</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-06 04:50:20</sys_created_on><sys_id>dfec2c5c83ce2610033ec1d6feaad39f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.PC application</sys_name><sys_package display_value="Demo1" source="x_1578353_demo1_0">6b2cc888834ae210033ec1d6feaad354</sys_package><sys_policy/><sys_scope display_value="Demo1">6b2cc888834ae210033ec1d6feaad354</sys_scope><sys_update_name>sc_cat_item_catalog_dfec2c5c83ce2610033ec1d6feaad39f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-06 04:50:20</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1183726808</payload_hash>
+        <record_name>Service Catalog.PC application</record_name>
+        <reverted_from/>
+        <source>b5bfa38c838a2610033ec1d6feaad399</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-06 04:50:20</sys_created_on>
+        <sys_id>1bec2c5c83ce2610033ec1d6feaad3a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19743935d450000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-06 04:50:20</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>1bec2c5cddce26106c74d30511eb52a3</update_guid>
+        <update_guid_history>1bec2c5cddce26106c74d30511eb52a3:-1183726808</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.PC application">efec2c5c83ce2610033ec1d6feaad3d1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-06 04:50:21</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>8de290cffc4f4930a6479f2565c18900</sys_id>
+        <sys_metadata>dfec2c5c83ce2610033ec1d6feaad39f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.PC application</sys_name>
+        <sys_package display_value="Demo1" source="x_1578353_demo1_0">6b2cc888834ae210033ec1d6feaad354</sys_package>
+        <sys_parent display_value="PC application">8a7ca05c83ce2610033ec1d6feaad31c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Demo1">6b2cc888834ae210033ec1d6feaad354</sys_scope>
+        <sys_scope_delete display_value="">607763b354f643de93dbf9c307d1cf44</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_dfec2c5c83ce2610033ec1d6feaad39f</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_dfec2c5c83ce2610033ec1d6feaad39f">1bec2c5c83ce2610033ec1d6feaad3a4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-06 04:50:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

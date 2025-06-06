@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="de198c10834e2610033ec1d6feaad370" label="Asset" max_length="40" name="x_1578353_demo1_0_asset" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Onboarddate" max_length="40" name="onboarddate" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="assetNu" max_length="40" name="assetnu" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Requestor" max_length="40" name="requestor" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Status" max_length="40" name="status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="assignDate" max_length="40" name="assigndate" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Assigner" max_length="40" name="assigner" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="requestDate" max_length="40" name="requestdate" type="glide_date"/>
+    </element>
+</database>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6fbcb740830e2610033ec1d6feaad38c" label="request" max_length="40" name="x_1578353_demo1_0_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="approveDate" max_length="40" name="approvedate" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="approved" value="approved"/>
+                <element inactive_on_update="false" label="completed" value="completed"/>
+                <element inactive_on_update="false" label="requested" value="requested"/>
+                <element inactive_on_update="false" label="rejected" value="rejected"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Requestor" max_length="100" name="requestor" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Approver" max_length="100" name="approver" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Comment" max_length="100" name="comment" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Requestnu" max_length="40" name="requestnu" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="requestDate" max_length="40" name="requestdate" type="glide_date"/>
+    </element>
+</database>
