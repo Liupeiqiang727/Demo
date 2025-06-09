@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="New Hire Onboard Confirm">85c36cd9838e6a10033ec1d6feaad33e</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-09 06:44:45</sys_created_on>
+        <sys_id>34e3201d838e6a10033ec1d6feaad3b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.New Hire Onboard Confirm</sys_name>
+        <sys_package display_value="Demo1" source="x_1578353_demo1_0">6b2cc888834ae210033ec1d6feaad354</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo1">6b2cc888834ae210033ec1d6feaad354</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_34e3201d838e6a10033ec1d6feaad3b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-09 06:44:45</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo1">6b2cc888834ae210033ec1d6feaad354</application>
+        <file_path/>
+        <instance_id>0ba47fc9eb370a90cbdefceacad0cd42</instance_id>
+        <instance_name>dev285430</instance_name>
+        <name>sc_cat_item_catalog_34e3201d838e6a10033ec1d6feaad3b5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="New Hire Onboard Confirm">85c36cd9838e6a10033ec1d6feaad33e</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-09 06:44:45</sys_created_on><sys_id>34e3201d838e6a10033ec1d6feaad3b5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.New Hire Onboard Confirm</sys_name><sys_package display_value="Demo1" source="x_1578353_demo1_0">6b2cc888834ae210033ec1d6feaad354</sys_package><sys_policy/><sys_scope display_value="Demo1">6b2cc888834ae210033ec1d6feaad354</sys_scope><sys_update_name>sc_cat_item_catalog_34e3201d838e6a10033ec1d6feaad3b5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-09 06:44:45</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1742087337</payload_hash>
+        <record_name>Service Catalog.New Hire Onboard Confirm</record_name>
+        <reverted_from/>
+        <source>a96d0c9d830e6a10033ec1d6feaad366</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-09 06:44:45</sys_created_on>
+        <sys_id>fce3201d838e6a10033ec1d6feaad3b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197536f32a90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-09 06:44:45</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>30e3201d0c8e6a101e01178f8a7676b8</update_guid>
+        <update_guid_history>30e3201d0c8e6a101e01178f8a7676b8:-1742087337</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.New Hire Onboard Confirm">dfe3601d838e6a10033ec1d6feaad3fd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-09 06:44:56</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>4532609134b146d79ce7b4ee021680a1</sys_id>
+        <sys_metadata>34e3201d838e6a10033ec1d6feaad3b5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.New Hire Onboard Confirm</sys_name>
+        <sys_package display_value="Demo1" source="x_1578353_demo1_0">6b2cc888834ae210033ec1d6feaad354</sys_package>
+        <sys_parent display_value="New Hire Onboard Confirm">85c36cd9838e6a10033ec1d6feaad33e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Demo1">6b2cc888834ae210033ec1d6feaad354</sys_scope>
+        <sys_scope_delete display_value="">607763b354f643de93dbf9c307d1cf44</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_34e3201d838e6a10033ec1d6feaad3b5</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_34e3201d838e6a10033ec1d6feaad3b5">fce3201d838e6a10033ec1d6feaad3b8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-09 06:44:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="New Hire Onboard Confirm">85c36cd9838e6a10033ec1d6feaad33e</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-09 06:44:57</sys_created_on>
+        <sys_id>2be3a01d838e6a10033ec1d6feaad308</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.New Hire Onboard Confirm</sys_name>
+        <sys_package display_value="Demo1" source="x_1578353_demo1_0">6b2cc888834ae210033ec1d6feaad354</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo1">6b2cc888834ae210033ec1d6feaad354</sys_scope>
+        <sys_update_name>sc_cat_item_category_2be3a01d838e6a10033ec1d6feaad308</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-09 06:44:57</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo1">6b2cc888834ae210033ec1d6feaad354</application>
+        <file_path/>
+        <instance_id>0ba47fc9eb370a90cbdefceacad0cd42</instance_id>
+        <instance_name>dev285430</instance_name>
+        <name>sc_cat_item_category_2be3a01d838e6a10033ec1d6feaad308</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="New Hire Onboard Confirm">85c36cd9838e6a10033ec1d6feaad33e</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-09 06:44:57</sys_created_on><sys_id>2be3a01d838e6a10033ec1d6feaad308</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.New Hire Onboard Confirm</sys_name><sys_package display_value="Demo1" source="x_1578353_demo1_0">6b2cc888834ae210033ec1d6feaad354</sys_package><sys_policy/><sys_scope display_value="Demo1">6b2cc888834ae210033ec1d6feaad354</sys_scope><sys_update_name>sc_cat_item_category_2be3a01d838e6a10033ec1d6feaad308</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-09 06:44:57</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1748460569</payload_hash>
+        <record_name>Can We Help You?.New Hire Onboard Confirm</record_name>
+        <reverted_from/>
+        <source>a96d0c9d830e6a10033ec1d6feaad366</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-09 06:44:57</sys_created_on>
+        <sys_id>a3e3a01d838e6a10033ec1d6feaad30d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197536f602d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-09 06:44:57</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>a3e3a01d7e8e6a109ad913524a477c0c</update_guid>
+        <update_guid_history>a3e3a01d7e8e6a109ad913524a477c0c:-1748460569</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.New Hire Onboard Confirm">2354e81d838e6a10033ec1d6feaad3dc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-09 06:46:52</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>259c8b71b41d448e986ccda891e48e64</sys_id>
+        <sys_metadata>2be3a01d838e6a10033ec1d6feaad308</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.New Hire Onboard Confirm</sys_name>
+        <sys_package display_value="Demo1" source="x_1578353_demo1_0">6b2cc888834ae210033ec1d6feaad354</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Demo1">6b2cc888834ae210033ec1d6feaad354</sys_scope>
+        <sys_scope_delete display_value="">607763b354f643de93dbf9c307d1cf44</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_2be3a01d838e6a10033ec1d6feaad308</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_2be3a01d838e6a10033ec1d6feaad308">a3e3a01d838e6a10033ec1d6feaad30d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-09 06:46:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
