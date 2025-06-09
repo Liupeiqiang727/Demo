@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1da5411083826610033ec1d6feaad360" label="pctype" max_length="40" name="x_1578353_demo1_0_pctype" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Type" max_length="40" name="type" type="string"/>
+    </element>
+</database>

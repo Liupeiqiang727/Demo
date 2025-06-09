@@ -13,6 +13,8 @@
         <element attributes="edge_encryption_enabled=true" label="Approver" max_length="100" name="approver" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Comment" max_length="100" name="comment" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Requestnu" max_length="40" name="requestnu" type="string"/>
+        <element label="Request for" max_length="40" name="request_for" type="string"/>
+        <element label="pc type" max_length="40" name="pc_type" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="requestDate" max_length="40" name="requestdate" type="glide_date"/>
     </element>
 </database>
