@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="08f72c9183ce6a10033ec1d6feaad3b0" label="new hire onboard check" max_length="40" name="x_1578353_demo1_0_new_hire_onboard_check" type="collection">
+        <element label="new hire id" max_length="40" name="new_hire_id" type="string"/>
+        <element label="onboad status" max_length="40" name="onboad_status" type="string"/>
+    </element>
+</database>

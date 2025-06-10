@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_pctype" label="pctype" language="en" table="x_1578353_demo1_0_ihub_import_132dd96d8386ea10033ec1d6feaad33c">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_pctype</element>
+            <help/>
+            <hint/>
+            <label>pctype</label>
+            <language>en</language>
+            <name>x_1578353_demo1_0_ihub_import_132dd96d8386ea10033ec1d6feaad33c</name>
+            <plural>pctypes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-10 05:34:06</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>pctype</sys_name>
+            <sys_package display_value="Demo1" source="x_1578353_demo1_0">6b2cc888834ae210033ec1d6feaad354</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo1">6b2cc888834ae210033ec1d6feaad354</sys_scope>
+            <sys_update_name>sys_documentation_x_1578353_demo1_0_ihub_import_132dd96d8386ea10033ec1d6feaad33c_u_pctype_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-10 05:34:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="DELETE">
+        <description>Data mapping instance for table x_1578353_demo1_0_assetlist</description>
+        <integration_table>sys_data_source</integration_table>
+        <integration_type/>
+        <internal_name/>
+        <name>x_1578353_demo1_0_assetlist Data Mapping</name>
+        <record_id>1f2dd96d8386ea10033ec1d6feaad33d</record_id>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-10 05:33:33</sys_created_on>
+        <sys_id>132dd96d8386ea10033ec1d6feaad33c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_1578353_demo1_0_assetlist Data Mapping</sys_name>
+        <sys_package display_value="Demo1" source="x_1578353_demo1_0">6b2cc888834ae210033ec1d6feaad354</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo1">6b2cc888834ae210033ec1d6feaad354</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_132dd96d8386ea10033ec1d6feaad33c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-10 05:33:33</sys_updated_on>
+    </sn_ihub_integration_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo1">6b2cc888834ae210033ec1d6feaad354</application>
+        <file_path/>
+        <instance_id>0ba47fc9eb370a90cbdefceacad0cd42</instance_id>
+        <instance_name>dev285430</instance_name>
+        <name>sn_ihub_integration_instance_132dd96d8386ea10033ec1d6feaad33c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance"><sn_ihub_integration_instance action="INSERT_OR_UPDATE"><description>Data mapping instance for table x_1578353_demo1_0_assetlist</description><integration_table>sys_data_source</integration_table><integration_type/><internal_name/><name>x_1578353_demo1_0_assetlist Data Mapping</name><record_id>1f2dd96d8386ea10033ec1d6feaad33d</record_id><sys_class_name>sn_ihub_integration_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-10 05:33:33</sys_created_on><sys_id>132dd96d8386ea10033ec1d6feaad33c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_1578353_demo1_0_assetlist Data Mapping</sys_name><sys_package display_value="Demo1" source="x_1578353_demo1_0">6b2cc888834ae210033ec1d6feaad354</sys_package><sys_policy/><sys_scope display_value="Demo1">6b2cc888834ae210033ec1d6feaad354</sys_scope><sys_update_name>sn_ihub_integration_instance_132dd96d8386ea10033ec1d6feaad33c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-10 05:33:33</sys_updated_on></sn_ihub_integration_instance></record_update>]]></payload>
+        <payload_hash>-632990399</payload_hash>
+        <record_name>x_1578353_demo1_0_assetlist Data Mapping</record_name>
+        <reverted_from/>
+        <source>a96d0c9d830e6a10033ec1d6feaad366</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-10 05:33:33</sys_created_on>
+        <sys_id>ef2dd5ad8386ea10033ec1d6feaad3eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19758545e710000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-10 05:33:33</sys_updated_on>
+        <type>Data import</type>
+        <update_guid>d32dd5ad2c86ea10a080cfc7ef4263eb</update_guid>
+        <update_guid_history>d32dd5ad2c86ea10a080cfc7ef4263eb:-632990399</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1578353_demo1_0_assetlist Data Mapping">f76f996183c6ea10033ec1d6feaad31e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-10 05:43:25</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_integration_instance">sn_ihub_integration_instance</sys_db_object>
+        <sys_id>62895c8dc9724e5ca77cecf98045ce10</sys_id>
+        <sys_metadata>132dd96d8386ea10033ec1d6feaad33c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1578353_demo1_0_assetlist Data Mapping</sys_name>
+        <sys_package display_value="Demo1" source="x_1578353_demo1_0">6b2cc888834ae210033ec1d6feaad354</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Demo1">6b2cc888834ae210033ec1d6feaad354</sys_scope>
+        <sys_scope_delete display_value="">607763b354f643de93dbf9c307d1cf44</sys_scope_delete>
+        <sys_update_name>sn_ihub_integration_instance_132dd96d8386ea10033ec1d6feaad33c</sys_update_name>
+        <sys_update_version display_value="sn_ihub_integration_instance_132dd96d8386ea10033ec1d6feaad33c">ef2dd5ad8386ea10033ec1d6feaad3eb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-10 05:43:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

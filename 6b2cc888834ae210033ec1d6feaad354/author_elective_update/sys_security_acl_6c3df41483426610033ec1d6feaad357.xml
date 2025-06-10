@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1578353_demo1_0_assetlist</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-06 06:01:25</sys_created_on>
+        <sys_id>6c3df41483426610033ec1d6feaad357</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1578353_demo1_0_assetlist</sys_name>
+        <sys_package display_value="Demo1" source="x_1578353_demo1_0">6b2cc888834ae210033ec1d6feaad354</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo1">6b2cc888834ae210033ec1d6feaad354</sys_scope>
+        <sys_update_name>sys_security_acl_6c3df41483426610033ec1d6feaad357</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-06 06:01:25</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo1">6b2cc888834ae210033ec1d6feaad354</application>
+        <file_path/>
+        <instance_id>0ba47fc9eb370a90cbdefceacad0cd42</instance_id>
+        <instance_name>dev285430</instance_name>
+        <name>sys_security_acl_6c3df41483426610033ec1d6feaad357</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Local</local_or_existing><name>x_1578353_demo1_0_assetlist</name><operation display_value="delete">delete</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-06 06:01:25</sys_created_on><sys_id>6c3df41483426610033ec1d6feaad357</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1578353_demo1_0_assetlist</sys_name><sys_package display_value="Demo1" source="x_1578353_demo1_0">6b2cc888834ae210033ec1d6feaad354</sys_package><sys_policy/><sys_scope display_value="Demo1">6b2cc888834ae210033ec1d6feaad354</sys_scope><sys_update_name>sys_security_acl_6c3df41483426610033ec1d6feaad357</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-06 06:01:25</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>250129864</payload_hash>
+        <record_name>x_1578353_demo1_0_assetlist</record_name>
+        <reverted_from/>
+        <source>b5bfa38c838a2610033ec1d6feaad399</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-06 06:01:25</sys_created_on>
+        <sys_id>e83df41483426610033ec1d6feaad35a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19743d470a40000003</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-06 06:01:25</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>ec3df4140e4266104da10103e700e659</update_guid>
+        <update_guid_history>ec3df4140e4266104da10103e700e659:250129864</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-10 05:43:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>1decccaa6a5e47e988053a85c2327f29</sys_id>
+        <sys_metadata>6c3df41483426610033ec1d6feaad357</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1578353_demo1_0_assetlist</sys_name>
+        <sys_package display_value="Demo1" source="x_1578353_demo1_0">6b2cc888834ae210033ec1d6feaad354</sys_package>
+        <sys_parent display_value="">e52df01483426610033ec1d6feaad356</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Demo1">6b2cc888834ae210033ec1d6feaad354</sys_scope>
+        <sys_scope_delete display_value="">607763b354f643de93dbf9c307d1cf44</sys_scope_delete>
+        <sys_update_name>sys_security_acl_6c3df41483426610033ec1d6feaad357</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_6c3df41483426610033ec1d6feaad357">e83df41483426610033ec1d6feaad35a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-10 05:43:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
